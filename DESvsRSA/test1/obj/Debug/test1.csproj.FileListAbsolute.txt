@@ -1,0 +1,11 @@
+F:\学习\code\test1\test1\bin\Debug\test1.exe.config
+F:\学习\code\test1\test1\bin\Debug\test1.exe
+F:\学习\code\test1\test1\bin\Debug\test1.pdb
+F:\学习\code\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+F:\学习\code\test1\test1\obj\Debug\test1.EntryForm.resources
+F:\学习\code\test1\test1\obj\Debug\test1.Properties.Resources.resources
+F:\学习\code\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+F:\学习\code\test1\test1\obj\Debug\test1.exe
+F:\学习\code\test1\test1\obj\Debug\test1.pdb
+F:\学习\code\test1\test1\obj\Debug\test1.MainForm.resources
+F:\学习\code\test1\test1\obj\Debug\test1.MainForm2.resources
